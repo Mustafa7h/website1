@@ -1,0 +1,14 @@
+@media screen and (max-width: 991px) {
+    .home {
+        height: 100vh;
+        text-align: center;
+    }
+
+    .home h1 {
+        font-size: 38px;
+    }
+
+    .home .img-fluid {
+        width: 50%;
+    }
+}
