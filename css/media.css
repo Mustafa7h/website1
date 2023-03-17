@@ -2,6 +2,9 @@
     .home {
         height: 100vh;
         text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     .home h1 {
@@ -9,6 +12,6 @@
     }
 
     .home .img-fluid {
-        width: 50%;
+        width: 90%;
     }
 }
