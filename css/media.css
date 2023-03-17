@@ -25,5 +25,11 @@
         padding: 0px !important;
     }
 
+    .cta .container {
+        padding: 0px !important;
+    }
 
+    .faq .row {
+        padding: 0px !important;
+    }
 }
