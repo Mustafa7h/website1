@@ -32,4 +32,11 @@
     .faq .row {
         padding: 0px !important;
     }
+
+    .portfolio .md-mo {
+        margin-top: 1.5rem !important;
+    }
+    .portfolio .sm-mo {
+        margin-bottom: 1.5rem !important;
+    }
 }
